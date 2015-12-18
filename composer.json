@@ -1,0 +1,17 @@
+{
+  "name" : "phpdr.net/php-v8js-doc",
+  "type" : "project",
+  "description" : "PHP document for IDE",
+  "authors" : [ {
+    "name" : "Ares",
+    "email" : "admin@phpdr.net",
+    "homepage" : "http://phpdr.net"
+  },
+  {
+	"name":"Mikhail Dolgov",
+	"email":"dolgov@bk.ru",
+	"homepage":"http://kodomo.fbb.msu.ru/~dolgov"
+  }],
+  "keywords" : ["php-v8js","v8js-doc"],
+  "license" : "Apache-2.0"
+}
